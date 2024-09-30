@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3 align="center">Supermarket Store Branches' Sales Analysis</h3>
+  <h3 align="center">Sales Analysis for Different Supermarket Stores</h3>
 
   <p align="center">
     Analyzing store sales based on store area, number of items available, and daily customer count!
